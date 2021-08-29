@@ -1,0 +1,2 @@
+text = "ハロー！"
+puts text
